@@ -1,0 +1,8 @@
+pyaudio
+os
+struct
+numpy
+matploylib.pyplot
+time
+tkinter
+TclError
